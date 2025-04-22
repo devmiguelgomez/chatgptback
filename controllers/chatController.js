@@ -4,9 +4,7 @@ import dotenv from 'dotenv'
 // Configurar OpenAI con manejo de errores mejorado
 let openai;
 try {
-  dotenv.config()
-
-  const apiKey = process.env.OPENAI_API_KEY
+  const apiKey = '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'
   if (!apiKey) {
     throw new Error('La variable de entorno OPENAI_API_KEY no está definida')
   }
