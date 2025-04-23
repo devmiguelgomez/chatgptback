@@ -41,7 +41,7 @@ chatgptback/
 
 1. Clona el repositorio:
    ```bash
-   git clone [https://github.com/tu-usuario/chat-gpt-app.git](https://github.com/devmiguelgomez/chatgptback.git)
+   git clone https://github.com/tu-usuario/chat-gpt-app.git
    cd chat-gpt-app/chatgptback
    ```
 
